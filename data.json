@@ -4,7 +4,7 @@
     {
       "id": 4,
       "PackageCode": "86",
-      "Label": "78+8",
+      "Label": "703+89",
       "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-23-28-512.png",
       "Flag": "br",
       "Status": {
@@ -12,14 +12,14 @@
         "global": 61.5,
         "indonesia": 0
       },
-      "Price": 5700,
+      "Price": 51000,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 6,
       "PackageCode": "172",
-      "Label": "156+16",
+      "Label": "781+97",
       "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-23-28-512.png",
       "Flag": "br",
       "Status": {
@@ -27,14 +27,14 @@
         "global": 122,
         "indonesia": 0
       },
-      "Price": 11300,
+      "Price": 55600,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 7,
       "PackageCode": "257",
-      "Label": "234+23",
+      "Label": "859+104",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
       "Flag": "br",
       "Status": {
@@ -42,14 +42,14 @@
         "global": 177.5,
         "indonesia": 0
       },
-      "Price": 16400,
+      "Price": 60800,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 8,
       "PackageCode": "343",
-      "Label": "312+31",
+      "Label": "937+112",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
       "Flag": "br",
       "Status": {
@@ -57,14 +57,14 @@
         "global": 239,
         "indonesia": 0
       },
-      "Price": 22100,
+      "Price": 66400,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 9,
       "PackageCode": "429",
-      "Label": "390+39",
+      "Label": "1015+120",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
       "Flag": "br",
       "Status": {
@@ -72,14 +72,14 @@
         "global": 299.5,
         "indonesia": 0
       },
-      "Price": 27700,
+      "Price": 72000,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 10,
       "PackageCode": "514",
-      "Label": "468+46",
+      "Label": "1093+127",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
       "Flag": "br",
       "Status": {
@@ -87,14 +87,14 @@
         "global": 355,
         "indonesia": 0
       },
-      "Price": 32800,
+      "Price": 77200,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 11,
       "PackageCode": "600",
-      "Label": "546+54",
+      "Label": "1250+162",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
       "Flag": "br",
       "Status": {
@@ -102,14 +102,14 @@
         "global": 416.5,
         "indonesia": 0
       },
-      "Price": 38500,
+      "Price": 88700,
       "product_slug": "br",
       "category": "diamonds"
     },
     {
       "id": 12,
       "PackageCode": "706",
-      "Label": "625+81",
+      "Label": "1484+185",
       "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
       "Flag": "br",
       "Status": {
@@ -117,7 +117,7 @@
         "global": 480,
         "indonesia": 0
       },
-      "Price": 44400,
+      "Price": 105100,
       "product_slug": "br",
       "category": "diamonds"
     },
