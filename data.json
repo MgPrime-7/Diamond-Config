@@ -1,0 +1,455 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 4,
+      "PackageCode": "86",
+      "Label": "78+8",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-23-28-512.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 61.5,
+        "indonesia": 0
+      },
+      "Price": 5700,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 6,
+      "PackageCode": "172",
+      "Label": "156+16",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-23-28-512.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 122,
+        "indonesia": 0
+      },
+      "Price": 11300,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 7,
+      "PackageCode": "257",
+      "Label": "234+23",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 177.5,
+        "indonesia": 0
+      },
+      "Price": 16400,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 8,
+      "PackageCode": "343",
+      "Label": "312+31",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 239,
+        "indonesia": 0
+      },
+      "Price": 22100,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 9,
+      "PackageCode": "429",
+      "Label": "390+39",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbabcd.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 299.5,
+        "indonesia": 0
+      },
+      "Price": 27700,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 10,
+      "PackageCode": "514",
+      "Label": "468+46",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 355,
+        "indonesia": 0
+      },
+      "Price": 32800,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 11,
+      "PackageCode": "600",
+      "Label": "546+54",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 416.5,
+        "indonesia": 0
+      },
+      "Price": 38500,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 12,
+      "PackageCode": "706",
+      "Label": "625+81",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db009.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 480,
+        "indonesia": 0
+      },
+      "Price": 44400,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 13,
+      "PackageCode": "792",
+      "Label": "703+89",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db3345.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 541.5,
+        "indonesia": 0
+      },
+      "Price": 50000,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 14,
+      "PackageCode": "878",
+      "Label": "781+97",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db3345.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 602,
+        "indonesia": 0
+      },
+      "Price": 55600,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 15,
+      "PackageCode": "963",
+      "Label": "859+104",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db3345.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 657.5,
+        "indonesia": 0
+      },
+      "Price": 60800,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 16,
+      "PackageCode": "1049",
+      "Label": "937+112",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbnm.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 719,
+        "indonesia": 0
+      },
+      "Price": 66400,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 17,
+      "PackageCode": "1135",
+      "Label": "1015+120",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbnm.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 779.5,
+        "indonesia": 0
+      },
+      "Price": 72000,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 18,
+      "PackageCode": "1220",
+      "Label": "1093+127",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbnm.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 835,
+        "indonesia": 0
+      },
+      "Price": 77200,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 19,
+      "PackageCode": "1412",
+      "Label": "1250+162",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbdb.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 960,
+        "indonesia": 0
+      },
+      "Price": 88700,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 20,
+      "PackageCode": "1669",
+      "Label": "1484+185",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbdb.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 1137.5,
+        "indonesia": 0
+      },
+      "Price": 105100,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 21,
+      "PackageCode": "1841",
+      "Label": "1640+201",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054dbdb.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 1259.5,
+        "indonesia": 0
+      },
+      "Price": 116400,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 22,
+      "PackageCode": "2195",
+      "Label": "1860+335",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db56.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 1453,
+        "indonesia": 0
+      },
+      "Price": 134300,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 23,
+      "PackageCode": "2901",
+      "Label": "2485+416",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db56.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 1933,
+        "indonesia": 0
+      },
+      "Price": 178600,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 24,
+      "PackageCode": "3688",
+      "Label": "3099+589",
+      "image": "https://img.oneshot7.org/img/mlbb/1760334222447_c62c5300-1e1f-4f91-90f4-d677eeb054db56.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 2424,
+        "indonesia": 0
+      },
+      "Price": 224000,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 25,
+      "PackageCode": "5532",
+      "Label": "4649+883",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-36-35-009.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 3660,
+        "indonesia": 0
+      },
+      "Price": 338200,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 26,
+      "PackageCode": "9288",
+      "Label": "7740+1548",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-36-35-009.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 6079,
+        "indonesia": 0
+      },
+      "Price": 561700,
+      "product_slug": "br",
+      "category": "diamonds"
+    },
+    {
+      "id": 27,
+      "PackageCode": "tp",
+      "Label": "tp",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-48-34-920.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 402.5,
+        "indonesia": 0
+      },
+      "Price": 37200,
+      "product_slug": "br",
+      "category": "package"
+    },
+    {
+      "id": 30,
+      "PackageCode": "wp",
+      "Label": "weekly pass",
+      "image": "https://img.oneshot7.org/img/mlbb/photo_2026-06-10_13-52-00999-removebg-preview.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 76,
+        "global": 76,
+        "indonesia": 0
+      },
+      "Price": 7000,
+      "product_slug": "br",
+      "category": "package"
+    },
+    {
+      "id": 31,
+      "PackageCode": "wkep",
+      "Label": "wkep",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-40-27-832.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 39,
+        "indonesia": 0
+      },
+      "Price": 3600,
+      "product_slug": "br",
+      "category": "package"
+    },
+    {
+      "id": 32,
+      "PackageCode": "mep",
+      "Label": "mep",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-41-59-928.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 196.5,
+        "indonesia": 0
+      },
+      "Price": 18200,
+      "product_slug": "br",
+      "category": "package"
+    },
+    {
+      "id": 33,
+      "PackageCode": "50",
+      "Label": "50",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-51-21-028.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 39,
+        "indonesia": 0
+      },
+      "Price": 3600,
+      "product_slug": "br",
+      "category": "Double"
+    },
+    {
+      "id": 34,
+      "PackageCode": "150",
+      "Label": "150",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-52-01-793.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 116.9,
+        "indonesia": 0
+      },
+      "Price": 10800,
+      "product_slug": "br",
+      "category": "Double"
+    },
+    {
+      "id": 35,
+      "PackageCode": "250",
+      "Label": "250",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-52-27-220.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 187.5,
+        "indonesia": 0
+      },
+      "Price": 17300,
+      "product_slug": "br",
+      "category": "Double"
+    },
+    {
+      "id": 36,
+      "PackageCode": "500",
+      "Label": "500",
+      "image": "https://img.oneshot7.org/img/mlbb/Picsart_26-07-09_20-52-49-628.png",
+      "Flag": "br",
+      "Status": {
+        "brazil": 0,
+        "global": 385,
+        "indonesia": 0
+      },
+      "Price": 35600,
+      "product_slug": "br",
+      "category": "Double"
+    }
+  ]
+}
